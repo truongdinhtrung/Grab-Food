@@ -1,14 +1,13 @@
 
 import './App.css';
-
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import ListPromo from './components/ListPromo';
-import Header from './components/Header';
-import Listfood from './components/Listfood';
-import Inform from './components/Inform';
-import Navbar from './components/Navbar';
-import Bottom from './components/Bottom';
+import ListPromo from '../components/ListPromo';
+import Header from '../components/Header';
+import Listfood from '../components/Listfood';
+import Inform from '../components/Inform';
+import Navbar from '../components/Navbar';
+import Bottom from '../components/Bottom';
 
 export default function App() {
     
